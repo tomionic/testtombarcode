@@ -1,0 +1,18 @@
+.bottom-bar {
+    position: fixed;    
+    bottom: 0;
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;    
+}
+
+.view-border {
+    position: absolute;
+    left: 25vw;    
+    border: 1px solid white;
+    width: 50vw;
+    height: 20vh;
+    top: 30vh;    
+}

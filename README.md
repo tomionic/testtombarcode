@@ -1,0 +1,2 @@
+# Barcode Scanner Example
+This Capacitor 4 example uses the `@capacitor-community/barcode-scanner` plugin. Scanning is encapsulated in `scan.service.ts` and uses a Ionic modal for a custom scan viewing page.
